@@ -7,8 +7,35 @@ h1{
 }
 h2{
   text-align: center;
-
+}
+h3{
+  text-align: center;
+  font-style: italic;
+}
+h4{
+  text-align: center;
+  font-style: italic;
+}
+h5{
+  text-align: center;
+  font-style: italic;
+}
+h6{
+  text-align: center;
+  font-style: italic;
 }
 body{
   background-color: #fed9ca;
+}
+#hidden1{
+  display: none;
+}
+#hidden2{
+  display: none;
+}
+#hidden3{
+  display: none;
+}
+#hidden4{
+  display: none;
 }
